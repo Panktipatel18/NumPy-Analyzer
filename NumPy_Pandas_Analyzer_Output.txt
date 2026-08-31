@@ -1,0 +1,170 @@
+Welcome to NumPy & Pandas Analyzer!
+=====================================
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 1
+
+1. 1D Array
+2. 2D Array
+3. 3D Array
+Enter your choice: 2
+Enter number of rows: 2
+Enter number of columns: 3
+Enter element: 20
+Enter element: 30
+Enter element: 40
+Enter element: 50
+Enter element: 60
+Enter element: 70
+
+2D Array:
+[[20. 30. 40.]
+ [50. 60. 70.]]
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 2
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Matrix Multiplication
+Enter your choice: 1
+Enter element: 10
+Enter element: 20
+Enter element: 30
+Enter element: 40
+Enter element: 50
+Enter element: 60
+
+Original Array:
+[[20. 30. 40.]
+ [50. 60. 70.]]
+
+Second Array:
+[[10. 20. 30.]
+ [40. 50. 60.]]
+
+Addition:
+[[ 30.  50.  70.]
+ [ 90. 110. 130.]]
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 3
+
+1. Combine Arrays
+2. Split Array
+Enter your choice: 1
+Enter element: 20
+Enter element: 30
+Enter element: 40
+Enter element: 50
+Enter element: 60
+Enter element: 70
+
+First Array:
+[[20. 30. 40.]
+ [50. 60. 70.]]
+
+Second Array:
+[[20. 30. 40.]
+ [50. 60. 70.]]
+
+Combined Array:
+[[20. 30. 40.]
+ [50. 60. 70.]
+ [20. 30. 40.]
+ [50. 60. 70.]]
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 5
+
+1. Sum
+2. Mean
+3. Median
+4. Standard Deviation
+5. Variance
+6. Minimum and Maximum
+7. Percentile
+Enter your choice: 3
+Median: 45.0
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 6
+
+1. Slicing
+2. Indexing
+Enter your choice: 1
+Enter starting row: 1
+Enter ending row: 2
+Enter starting column: 1
+Enter ending column: 2
+
+Sliced Array:
+[[60.]]
+
+=====================================
+      NUMPY & PANDAS ANALYZER
+=====================================
+1. Create Array
+2. Mathematical Operations
+3. Combine / Split Array
+4. Search / Sort / Filter
+5. Statistics
+6. Slicing and Indexing
+7. Show Data using Pandas
+8. Exit
+Enter your choice: 8
+
+Thank you for using NumPy & Pandas Analyzer!
+Goodbye!
